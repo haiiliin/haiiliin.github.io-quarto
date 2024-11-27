@@ -1,0 +1,3 @@
+[submodule "micromechanical-non-coaxial-manuscript/quarto-cn-tools"]
+	path = micromechanical-non-coaxial-manuscript/quarto-cn-tools
+	url = https://github.com/TomBener/quarto-cn-tools.git

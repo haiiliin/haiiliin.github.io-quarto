@@ -1,0 +1,48 @@
+project:
+  type: website
+
+comments:
+  hypothesis: true
+
+website:
+  title: Multiscale Modeling of Granular Materials
+  back-to-top-navigation: true
+  page-navigation: true
+  repo-url: https://github.com/haiiliin/haiiliin.github.io
+  repo-actions: [edit, issue]
+  search: true
+  navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: house
+        href: https://hailin.wang/
+      - icon: github
+        href: https://github.com/haiiliin/
+      - icon: file-code
+        href: https://github.com/haiiliin/haiiliin.github.io/
+  page-footer:
+    left: "Copyright 2024, Hailin Wang"
+    right:
+      - icon: house
+        href: https://hailin.wang/
+      - icon: github
+        href: https://github.com/haiiliin
+      - icon: envelope
+        href: mailto:wanghailin@tongji.edu.cn
+  sidebar:
+    style: docked
+    collapse-level: 1
+    contents: auto
+
+bibliography: [bibliography.bib]
+
+format:
+  html:
+    toc: true
+    code-fold: true
+    appendix-cite-as: display
+    link-external-newwindow: true
+    default-image-extension: svg
+    grid:
+      sidebar-width: 300px
