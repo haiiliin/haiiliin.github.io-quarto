@@ -12,13 +12,11 @@ about:
     - icon: envelope
       href: mailto:wanghailin@tongji.edu.cn
 
-bibliography: [bibliography.bib]
-
 listing:
-  id: listing
+  id: papers
   type: table
   fields: [title, author]
-  contents: "papers/*.md"
+  contents: papers
 ---
 
 :::{#about}
@@ -40,5 +38,5 @@ B.A in Civil Engineering | Sept 2016 - June 2020
 
 ## Papers
 
-::: {#listing}
+::: {#papers}
 :::
