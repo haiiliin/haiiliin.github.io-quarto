@@ -1,4 +1,5 @@
 ---
+title: 配置使用 ChatGPT Academic
 date: 2023-10-20
 author: Hailin Wang
 categories:

@@ -1,4 +1,5 @@
 ---
+title: Frequently Used Softwares
 date: 2023-03-17
 author: Hailin Wang
 categories:
