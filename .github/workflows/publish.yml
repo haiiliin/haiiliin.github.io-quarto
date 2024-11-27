@@ -27,6 +27,7 @@ jobs:
       - name: Render Quarto Project
         run: |
           make paper
+          echo "hailin.wang" > outputs/CNAME
 
       - name: Deploy to GitHub Pages
         if: github.event_name != 'pull_request'
